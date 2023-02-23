@@ -26,8 +26,9 @@
 <a href='#' > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
 <a href='#' > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
 
-
+  
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.linkedin.com/in/arthur-prudente-284932242/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://arthurpr.tech'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
-<a href = 'https://github.com/arthurprudenteres/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+  
+[![Instagram Badge](https://img.shields.io/badge/@arthurpru-2D425E?style=flat&labelColor=2D425E&logo=instagram&logoColor=white&link=)](https://www.instagram.com/arthurpru/)
+[![Linkedin Badge](https://img.shields.io/badge/Arthur%20Prudente-2D425E?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-prudente-284932242/)](https://www.linkedin.com/in/arthur-prudente-284932242/) 
+[![Personal Site Badge](https://img.shields.io/badge/arthurpr.tech-2D425E?style=flat&logo=devdotto&logoColor=white)](https://arthurpr.tech) 
