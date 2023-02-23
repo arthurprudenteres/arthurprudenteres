@@ -1,8 +1,6 @@
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=arthurprudenteres.arthurprudenteres)
-
 </p>
 <div size='20px'> Hi! My name is Arthur :smile: 
 </div>
@@ -14,9 +12,13 @@
 
 - 🔭 I’m currently working as a front end developer freelancer using ReactJS and Tailwind.
 
-- 🌱 I’m currently learning more about frontend architecture and advanced styling and animations. 
+- 🌱 I’m currently learning more about frontend architecture and advanced styling and animations, using ReactJS, TailwindCSS and GSAP. 
 
-- 💬 I love technology and design. 
+- 💬 Ask me about anything, I am happy to help.
+  
+- ⚡️ Fun-Fact: I have a degree in automation engineering;
+  
+- 📫 How to reach me: arthurpru@gmail.com;
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/vinioo?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
