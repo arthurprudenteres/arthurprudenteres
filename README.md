@@ -1,8 +1,8 @@
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1> Hi there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
 </p>
-<div size='20px'> Hi! My name is Arthur :smile: 
+<div size='20px'> My name is Arthur Prudente :smile: 
 </div>
 
 <h2> About Me </h2>
@@ -10,7 +10,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working as a front end developer freelancer using ReactJS and Tailwind.
+- 🔭 I’m currently working as a front end developer freelancer using mostly, HTML, CSS, JavaScript, ReactJS and Tailwind.
 
 - 🌱 I’m currently learning more about frontend architecture and advanced styling and animations, using ReactJS, TailwindCSS and GSAP. 
 
